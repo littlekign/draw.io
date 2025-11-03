@@ -43,6 +43,12 @@
         <mxCell id="g8DATOM831k7lyX8XR9U-10" value="B" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="g8DATOM831k7lyX8XR9U-11" value="C" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="420" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="g8DATOM831k7lyX8XR9U-12" value="D" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="480" width="50" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
